@@ -5,7 +5,7 @@
 ```json
 {
 	"pingId": 1,
-  "deliveryAttempt": 1,
+	"deliveryAttempt": 1,
 	"date": 1589877226614,
 	"responseTime": 247
 }
